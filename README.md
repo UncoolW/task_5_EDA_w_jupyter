@@ -1,4 +1,4 @@
-#  Titanic EDA Project
+#  Titanic EDA task
 
 This project explores the **Titanic dataset** from Kaggle using exploratory data analysis (EDA) techniques to uncover patterns and relationships that influenced passenger survival.
 
@@ -49,7 +49,7 @@ Source: [Kaggle Titanic Dataset](https://www.kaggle.com/competitions/titanic/dat
 ##  Files Included
 
 - `titanic_eda.ipynb`: Main notebook with all visualizations and insights.
-- `titanic_eda.pdf`: Exported version of notebook for easy viewing.
+- `titanic_eda_colab_pdfreport.pdf`: Exported version of notebook for easy viewing.
 - `data/train.csv`: Original dataset used for analysis.
 
 ---

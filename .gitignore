@@ -1,0 +1,27 @@
+# Jupyter Notebook auto-checkpoints
+.ipynb_checkpoints/
+
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# matplotlib cache
+.matplotlib/
+
+# System files (for Windows/macOS users)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code project settings (optional, if you used VS Code)
+.vscode/
+
+# Logs, temporary files
+*.log
+*.tmp
+
+# Optional: ignore datasets if they're large or not needed in repo
+# train.csv
+# test.csv
+# gender_submission.csv
